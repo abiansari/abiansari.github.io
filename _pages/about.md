@@ -17,8 +17,8 @@ conjugate-gradient formulations. More broadly, I am interested in exploiting
 connections between optimization and numerical linear algebra to develop 
 scalable algorithms for large-scale problems.
 
-I am funded by the [Wallenberg AI, Autonomous Systems and Software Program 
-(WASP)](https://wasp-sweden.org) Graduate School. My supervisors are 
+I am supported by the [Wallenberg AI, Autonomous Systems and Software Program 
+(WASP)](https://wasp-sweden.org) funded by the Knut and Alice Wallenberg Foundation. My supervisors are 
 [Professor Elina Rönnberg](https://liu.se/medarbetare/eliro15) at Linköping University and 
 [Professor Anders Forsgren](https://www.kth.se/profile/andersf) at KTH Royal Institute of 
 Technology.
