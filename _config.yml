@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Aban Ansari-Önnestam"
-  pronouns         : # example: "she/her"
-  bio              : "PhD student in optimization at Linköping University, working on Newton-type methods, quasi-Newton techniques, and Krylov-subspace methods."
+  pronouns         : "she/her"
+  bio              : 
   location         : "Linköping, Sweden"
   employer         : "Linköping University"
   uri              : # URL
