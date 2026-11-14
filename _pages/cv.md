@@ -16,7 +16,7 @@ redirect_from:
 * MSc in Mathematics, Uppsala University, 2017–2019
 * BSc in Mathematics, Jacobs University Bremen, 2013–2017
 
-## Publications
+## Publications and Manuscripts
 
 * *Finite Newton-Step Generation via Subspace Quasi-Newton Methods for Quadratic Problems* (with A. Forsgren). Submitted to the Journal of Optimization Theory and Applications, 2026. [arXiv:2407.03072](https://arxiv.org/abs/2407.03072)
 
