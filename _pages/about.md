@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+My name is Aban Ansari-Önnestam, though most people call me Abi.
 
 I am a PhD student in optimization at [Linköping University](https://liu.se), 
 working on the development and analysis of Newton-type methods. My research 
