@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Some Results on Solving Unconstrained Quadratic Problems Using Conjugate-Direction Methods<br />EUROPT 2025; Southampton, UK",
+    50.9025349,
+    -1.404189
+  ],
+  [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
