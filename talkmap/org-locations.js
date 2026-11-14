@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "On the Behavior of Limited-Memory Quasi-Newton Methods for Quadratic Problems<br />EURO 2024; Copenhagen, Denmark",
+    55.6867243,
+    12.5700724
+  ],
+  [
     "Some Results on Solving Unconstrained Quadratic Problems Using Conjugate-Direction Methods<br />EUROPT 2025; Southampton, UK",
     50.9025349,
     -1.404189
