@@ -18,8 +18,8 @@ scalable algorithms for large-scale problems.
 
 I am funded by the [Wallenberg AI, Autonomous Systems and Software Program 
 (WASP)](https://wasp-sweden.org) Graduate School. My supervisors are 
-[Professor Elina Rönnberg](https://liu.se) at Linköping University and 
-[Professor Anders Forsgren](https://www.kth.se) at KTH Royal Institute of 
+[Professor Elina Rönnberg](https://liu.se/medarbetare/eliro15) at Linköping University and 
+[Professor Anders Forsgren](https://www.kth.se/profile/andersf) at KTH Royal Institute of 
 Technology.
 
 ## Education
