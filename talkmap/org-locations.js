@@ -5,6 +5,11 @@ var addressPoints = [
     -1.404189
   ],
   [
+    "On Modified Newton Methods Based on Lanczos Tridiagonalization<br />SIAM Conference on Optimization 2026; Edinburgh, Scotland",
+    55.9533456,
+    -3.1883749
+  ],
+  [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
@@ -28,10 +33,5 @@ var addressPoints = [
     "On Modified Newton Methods Based on Lanczos Tridiagonalization<br />NORM 2026; Stockholm, Sweden",
     59.3251172,
     18.0710935
-  ],
-  [
-    "On Modified Newton Methods Based on Lanczos Tridiagonalization<br />SIAM Conference on Optimization 2026; Edinburgh, Scotland",
-    55.9533456,
-    -3.1883749
   ]
 ];
