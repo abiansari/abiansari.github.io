@@ -12,12 +12,9 @@ redirect_from:
 ## Education
 
 * PhD in Optimization, Linköping University, 2022–present *(expected defence: June 2027)*
+* WASP Graduate School, funded by the Wallenberg AI, Autonomous Systems and Software Program (WASP), 2022–present
 * MSc in Mathematics, Uppsala University, 2017–2019
 * BSc in Mathematics, Jacobs University Bremen, 2013–2017
-
-## Research Funding
-
-* WASP Graduate School, funded by the Wallenberg AI, Autonomous Systems and Software Program (WASP), 2022–present
 
 ## Publications
 
