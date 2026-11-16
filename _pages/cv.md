@@ -26,9 +26,10 @@ redirect_from:
 
 * *On Modified Newton Methods Based on Lanczos Tridiagonalization*. NORM 2026, Stockholm, Sweden.
 * *On Modified Newton Methods Based on Lanczos Tridiagonalization*. SIAM Conference on Optimization 2026, Edinburgh, Scotland.
+* *On Modified Newton Methods for Unconstrained Optimization Based on the Lanczos Tridiagonalization*. EURO Online Seminar Series, 2026
 * *Some Results on Solving Unconstrained Quadratic Problems Using Conjugate-Direction Methods*. EUROPT 2025, Southampton, UK.
-* *On the Behavior of Limited-Memory Quasi-Newton Methods for Quadratic Problems*. EURO 2024, Copenhagen, Denmark.
 * *On Finite Termination of Quasi-Newton Methods on Quadratic Problems*. SOAK 2024, Nyköping, Sweden.
+* *On the Behavior of Limited-Memory Quasi-Newton Methods for Quadratic Problems*. EURO 2024, Copenhagen, Denmark.
 
 ## Teaching Experience
 
