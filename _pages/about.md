@@ -22,9 +22,3 @@ I am supported by the [Wallenberg AI, Autonomous Systems and Software Program
 [Professor Elina Rönnberg](https://liu.se/medarbetare/eliro15) at Linköping University and 
 [Professor Anders Forsgren](https://www.kth.se/profile/andersf) at KTH Royal Institute of 
 Technology.
-
-## Education
-
-- **PhD in Optimization**, Linköping University, 2022–present *(expected defence: June 2027)*
-- **MSc in Mathematics**, Uppsala University, 2017–2019
-- **BSc in Mathematics**, Jacobs University Bremen, 2013–2017
