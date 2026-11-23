@@ -20,7 +20,7 @@ redirect_from:
 
 * *Finite Newton-Step Generation via Subspace Quasi-Newton Methods for Quadratic Problems* (with A. Forsgren). Submitted to the Journal of Optimization Theory and Applications, 2026. [arXiv:2407.03072](https://arxiv.org/abs/2407.03072)
 
-* *On Modified Newton Methods Based on Lanczos Tridiagonalization* (with A. Forsgren and P. E. Gill). Submitted to Computational Optimization and Applications, 2026. [arXiv:2610.31110](https://arxiv.org/abs/2610.31110)
+* *On Modified Newton Methods for Unconstrained Optimization Based on Lanczos Tridiagonalization* (with A. Forsgren and P. E. Gill). Submitted to Computational Optimization and Applications, 2026. [arXiv:2610.31110](https://arxiv.org/abs/2610.31110)
 
 ## Selected Research Presentations
 
